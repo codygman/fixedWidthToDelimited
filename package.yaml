@@ -38,6 +38,14 @@ library:
   dependencies:
   - base
   - bytestring
+  - pipes
+  - pipes-bytestring
+  - pipes-text
+  - pipes-group
+  - lens-family-core
+  - foldl
+  - text
+
   source-dirs: library
 license: MIT
 maintainer: Author name here
