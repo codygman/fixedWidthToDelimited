@@ -58,6 +58,7 @@ tests:
     - fixedwidthtodelimited
     - tasty
     - tasty-hspec
+    - text
     ghc-options:
     - -rtsopts
     - -threaded
